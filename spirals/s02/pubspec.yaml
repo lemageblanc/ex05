@@ -1,0 +1,7 @@
+name: ex05
+version: 0.0.1
+author: Evessehou Moïse Dovonou <dovonoumoise@yahoo.fr>
+description: A sample web application
+dependencies:
+  browser:
+    git: ''
