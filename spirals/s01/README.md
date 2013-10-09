@@ -3,7 +3,7 @@
 **Categories**: education, library, .
 
 **Description**:
-library to calculate area and speed.
+Triangles.
 
 **Start**:
 Clone the rd project and open it with Dart Editor.
